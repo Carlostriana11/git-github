@@ -4,3 +4,5 @@ espero aprender mucho en este bootcamp .
 
 
 es importante git? .
+
+si es muy importante con esto pudo llevar un poco mejor el control de las versiones 

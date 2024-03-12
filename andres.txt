@@ -1,1 +1,3 @@
-no se como se maneja git
+no se como se maneja git pero estoy aprendiendo
+
+ya se manejar un poco mejor git y github
